@@ -16,11 +16,7 @@
     <version>0.0.1-SNAPSHOT</version>
 
     <developers>
-        <!-- TODO: replace with developers concerned -->
-        <developer>
-            <name>Jan Schwarz</name>
-            <email>jschwarz@eitco.de</email>
-        </developer>
+        <!-- TODO: add developers concerned -->
     </developers>
 
     <scm>

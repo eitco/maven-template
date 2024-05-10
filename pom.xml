@@ -30,4 +30,15 @@
         <developerConnection>scm:git:https://github.com/eitco/maven-template.git</developerConnection>
     </scm>
 
+    <build>
+        <plugins>
+            <plugin>
+                <artifactId>maven-release-plugin</artifactId>
+            </plugin>
+            <plugin>
+                <artifactId>maven-resources-plugin</artifactId>
+            </plugin>
+        </plugins>
+    </build>
+
 </project>
